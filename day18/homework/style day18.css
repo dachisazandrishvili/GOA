@@ -1,0 +1,27 @@
+
+h1{
+  color:rgb(158, 4, 4);
+  font-size: 100px;
+  font-style:italic;
+  font-weight: 700;
+
+}
+.it1{
+  color:blue;
+  font-style: italic;
+}
+.it2{
+  color:blue;
+  font-style: italic;
+}
+
+.it3{
+  color:black;
+  font-style: italic;
+  background-color: rgb(0, 255, 242);
+  height: 36;
+  width: 100px;
+  border-style: solid;
+  border-width: 1px;
+  cursor: pointer;
+}

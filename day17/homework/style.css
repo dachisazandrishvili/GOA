@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@700&family=Roboto&family=Smooch&display=swap');
+
+h1{font-family: "mountains of christmas";
+  color:rgb(158, 4, 4);
+  font-size: 100px;
+  font-style:italic;
+  font-weight: 700;
+
+}
+p{
+  font-family: "mountains of christmas";
+  color:orangered;
+  font-size: 20px;
+  font-style: italic;
+
+}
