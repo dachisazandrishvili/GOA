@@ -1,0 +1,76 @@
+#about-me{
+  color:black;
+  font-weight:bold;
+  font-size:18px;
+  font-style:italic;
+
+
+}
+
+#about-me a{
+  color:rgb(27, 116, 168);
+}
+
+#about-me p{
+  margin-top: 0;
+}
+
+#about-me h1{
+  color:black;
+  font-family: italic;
+  font-size: 30px;
+  margin-bottom: 0;
+}
+
+#BB{
+  color: rgb(27, 116, 168);
+  text-align: center;
+  
+
+}
+#BB button{
+  background-color: deepskyblue;
+  cursor:pointer;
+  border-radius: 5px;
+  border-color: blue;
+  color: rgb(244, 248, 252);
+
+}
+
+#BB button:hover{
+  background-color:blue;
+  border-color: deepskyblue;
+}
+
+#studing{
+  color:black;
+  margin-top: 20px;
+
+}
+
+#studing button{
+  background-color:darkgreen;
+  border-radius:5px;
+  border-color:green;
+  color:black;
+  cursor:pointer;
+}
+#studing button:hover{
+  background-color:green;
+  border-color:darkgreen;
+}
+#my-hobbies{
+  color: blue;
+}
+#ol{
+  color:black;
+}
+#my-photo{
+  margin-bottom: 20px;
+}
+.h1{
+  font-size: 50px;
+  text-align: center;
+  font-style: italic;
+
+}
