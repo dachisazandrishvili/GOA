@@ -1,0 +1,49 @@
+
+  .header{
+    position: fixed;
+    background-color: darkgreen;
+    top:0;
+    left:0;
+    width:100%;
+    padding: 20px 10%;
+    display: flex;
+    align-items: center;
+    z-index: 100;
+   
+  }
+
+
+
+.navbat{
+      margin-left: 20px;
+      font-size: 25px;
+      color: #ededed;
+      text-decoration: none;
+      font-weight: 600;
+}
+
+.logo{
+  font-size: 25px;
+  color:black;
+  text-decoration: none;
+  font-weight: 600;
+}
+#photo{
+  margin-bottom: 20px;
+}
+body{
+  background-color:rgb(2, 26, 2);
+}
+p{
+  color: darkgreen;
+}
+button{
+  font-size: 15px;
+  color:black;
+  text-decoration: none;
+  font-weight: 400;
+  background-color: darkgreen;
+  height: 30px;
+  width: 70px;
+  border: none;
+}
