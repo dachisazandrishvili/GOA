@@ -1,0 +1,74 @@
+#maindiv{
+  border:2px solid;
+  border-color: white;
+  background-color: white;
+}
+body{
+  background-color: rgb(68, 4, 68);
+}
+#logo{
+  text-decoration: none;
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  color: rgb(66, 66, 66);
+}
+#logo b{
+  color:black;
+}
+.navelements{
+  text-decoration: none;
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  color: rgb(66, 66, 66);
+  margin-right: 40px;
+
+}
+.header{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+#nav{
+  display: flex;
+  align-items: center;
+}
+#nav button{
+  background-color: blueviolet;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  border-radius: 15px;
+  
+}
+.mainh1{
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  color: black;
+  font-size: 40px;
+
+}
+.pp{
+  text-decoration: none;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  color: rgb(66, 66, 66);
+}
+#button{
+  background-color: blueviolet;
+  text-decoration: none;
+  font-size: 25px;
+  font-family: "Roboto", sans-serif;
+  border-radius: 15px;
+
+}
+#main{
+  display: flex;
+  flex-direction: row;
+  gap:400px;
+  align-items: center;
+}
