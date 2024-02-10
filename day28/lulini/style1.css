@@ -1,0 +1,17 @@
+#body{
+  background-color: lightgreen;
+}
+form{
+  text-align: center;
+}
+.input{
+  background-color:rgb(125, 236, 236) ;
+}
+#body h1{
+  font-style: italic;
+}
+button{
+  background-color:green;
+  cursor:pointer;
+  size: 20px;
+}

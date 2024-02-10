@@ -1,0 +1,11 @@
+#body{
+  background-color: rgb(233, 19, 19);
+  text-align: center;
+}
+#body h1{
+  font-style: italic;
+  color: black;
+}
+#body p{
+  font-style: italic;
+}

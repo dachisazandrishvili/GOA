@@ -1,0 +1,13 @@
+#body{
+  background-color: rgb(109, 18, 18);
+  text-align: center;
+}
+#body h1{
+  font-style: italic;
+  color: black;
+}
+#body button{
+  color:red;
+  background-color: black;
+  
+}
